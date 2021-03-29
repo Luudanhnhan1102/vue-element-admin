@@ -7,7 +7,7 @@
         </div>
         <div class="card-panel-description">
           <div class="card-panel-text">
-            Visits
+            New Visits
           </div>
           <count-to :start-val="0" :end-val="100000" :duration="2600" class="card-panel-num" />
         </div>
