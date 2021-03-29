@@ -6,9 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 **/*.log
 
-tests/**/coverage/
-tests/e2e/reports
-selenium-debug.log
 
 # Editor directories and files
 .idea
@@ -24,4 +21,3 @@ yarn.lock
 apps
 .DS_Store
 public/assets
-node_modules
